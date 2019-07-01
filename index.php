@@ -125,7 +125,6 @@ function url(){
 	// $(document).ready(function() {
 	//   	$("select[calss='niceSelect']").niceSelect();
 	// });
-
-	
+// test
 </script>
 </html>
